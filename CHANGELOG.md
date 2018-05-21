@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Add checks to avoid errors when operating against a resource group with no members or no folders.
+
 ## 4.0.0.0
 
 - BREAKING CHANGE
