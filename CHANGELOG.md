@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-- Add checks to avoid errors when operating against a resource group with no members or no folders.
+- Resolved issue with null values in resource group members or folders.
 
 ## 4.0.0.0
 
