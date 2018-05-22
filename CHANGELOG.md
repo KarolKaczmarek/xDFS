@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-- Resolved issue with null values in resource group members or folders.
+- Resolved issue with null values in resource group members or folders - fixes [Issue #62](https://github.com/PowerShell/xDFS/issues/62).
 
 ## 4.0.0.0
 
